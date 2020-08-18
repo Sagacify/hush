@@ -12,6 +12,14 @@
   ],
   "author": "@quentinG3",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sagacify/hush.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sagacify/hush/issues"
+  },
+  "homepage": "https://github.com/Sagacify/hush#readme",
   "scripts": {
     "format": "semistandard --fix",
     "test:spec": "mocha --recursive",

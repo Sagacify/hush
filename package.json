@@ -1,6 +1,6 @@
 {
   "name": "@sagacify/hush",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Secrets manager",
   "main": "src/hush.js",
   "directories": {

@@ -7,8 +7,8 @@
 
 ## Description
 
-Hush is a package meant to simplify secrets managements in application.
-It reads secrets injected via docker inside the container.
+Hush is a package meant to simplify secrets management in applications.
+It reads secrets injected via docker inside containers.
 
 ## Installation
 
